@@ -332,11 +332,13 @@ button {
 }
 
 .text-bg p {
-     color: black;
-     line-height: 30px;
-     font-size: 30px;
-     margin-bottom: 50px;
-     font-weight: bold;
+    color: black;
+    line-height: 30px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    background: #f5deb338;
+    border-radius: 10px;
 }
 
 .text-bg .read_more {

@@ -85,6 +85,11 @@
         font-size: 10px;
     }
 }
+@media (max-width:500px){
+    .service-card{
+        width: 50%;
+    }
+}
 @media (min-width: 576px) and (max-width: 767px) {
     .logo {
         width: 130px;

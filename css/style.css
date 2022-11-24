@@ -311,10 +311,10 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner-3.jpg);
+     background: url(../images/banner-4.jpg);
      padding: 127px 0px 0px 0px;
+     background-repeat: repeat;
      background-size: 100% 100%;
-     background-repeat: no-repeat;
      min-height: 769px;
 }
 

@@ -81,9 +81,6 @@
         flex-direction: column;
         align-items: center;
     }
-    .service-card-text{
-        font-size: 10px;
-    }
 }
 @media (max-width:500px){
     .service-card{
